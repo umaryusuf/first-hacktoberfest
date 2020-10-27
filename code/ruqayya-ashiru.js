@@ -1,1 +1,2 @@
-console.log('My name is Ruqayya Ashiru');
+const name = "Ruqaya Ashiru";
+console.log('My name is ' + name);
