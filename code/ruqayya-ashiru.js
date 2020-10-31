@@ -15,3 +15,15 @@ function subtraction(x, y) {
 function devide(x, y) {
     return x / y;
 }
+
+function factorial(n) {
+    if(n > 1) {
+        return n * (n - 1);
+    } else {
+        return 1;
+    }
+}
+
+function square(x) {
+    x * x;
+}
