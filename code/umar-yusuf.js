@@ -23,3 +23,11 @@ function devide(x, y) {
     return x / y
 }
 
+
+function times10(x) {
+    return x  * 10
+}
+
+function add10(x) {
+    return x + 10
+}
