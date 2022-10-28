@@ -31,3 +31,6 @@ function times10(x) {
 function add10(x) {
     return x + 10
 }
+
+add(10, 12)
+subtract(20, 10)
