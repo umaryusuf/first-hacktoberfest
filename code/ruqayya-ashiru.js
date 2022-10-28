@@ -27,3 +27,9 @@ function factorial(n) {
 function square(x) {
     x * x;
 }
+
+fucntion times10(x) {
+    return x * 10
+}
+
+
